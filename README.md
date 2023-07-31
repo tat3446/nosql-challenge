@@ -9,3 +9,4 @@ https://docs.python.org/3.8/howto/regex.html#
 
 Completed both notebooks - need to review vs. requirements (7-30-23)
 
+Reviewed, updated and complete for submission 7/30
